@@ -1,0 +1,4 @@
+interface:
+  display_name: "Training Log Summarizer"
+  short_description: "学習ログと実験指標を読み、結果要約と論点整理を行う"
+  default_prompt: "Use $training-log-summarizer to summarize training logs, history files, and final metrics into a short structured report."

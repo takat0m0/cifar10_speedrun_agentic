@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experiment Next Step"
+  short_description: "実験要約から次の打ち手と検索論点を整理して提案する"
+  default_prompt: "Use $experiment-next-step to turn an experiment summary into prioritized next experiments and targeted research questions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experiment Code Updater"
+  short_description: "実験提案を比較可能な学習コード変更に落として実装する"
+  default_prompt: "Use $experiment-code-updater to implement an experiment recommendation as concrete training code changes."
