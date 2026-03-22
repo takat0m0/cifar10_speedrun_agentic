@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experiment Loop Runner"
+  short_description: "実験要約改善再実行を目標精度まで反復するワークフロー"
+  default_prompt: "Use $experiment-loop-runner to iterate experiment runs, summarize results, update code, and rerun until a target validation accuracy is reached."
